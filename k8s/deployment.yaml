@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: gitops-app
-          image: <luckytheracer>/gitops-app:initial
+          image: <lucky-the-racer>/gitops-app:initial
           ports:
             - containerPort: 5000
